@@ -14,6 +14,13 @@ Scalability: It can handle a large volume of customer interactions simultaneousl
 Improved efficiency: It can help businesses save time and resources by handling repetitive and routine tasks, allowing human customer service representatives to focus on more complex issues.
 
 Better customer satisfaction: It can provide quick and accurate responses to customer inquiries, improving customer satisfaction.
+<h1></h1>
+<h1>Developers</h1>
+👉Thamindu Disna<br>
+👉Dileepa Vishwa<br>
+👉Chamath Sandaru<br>
+👉Geeth Kaweesha<br>
+👉Prabath Alagevaththa<br>
 
 <h1>How To Deploy</h1>
 
