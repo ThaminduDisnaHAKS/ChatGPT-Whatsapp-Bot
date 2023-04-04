@@ -1,4 +1,4 @@
-# WHATSAPP CHATGPT BOT CREATED BY SoftCraft™
+# WHATSAPP CHATGPT BOT CREATED BY NexOva™
 
 <h1>Features</h1>
 Integrating ChatGPT with WhatsApp can provide several benefits, including:
